@@ -27,7 +27,7 @@ LLeGu 是一基于 "腾讯Legu" 的 Android ELF 加壳工具，所以起名为 "
 
 ## 编译
   - 编辑run_make.bat，配置NDK的目录
-  - Visual Studio 2017 编译为 x86 Release
+  - Visual Studio 2017 将Extrace工程编译为 x86 Release
   - 将编译好的Extract.exe放入shell目录中
   - 命令行进入shell目录，并运行 Extract libxxx.so
   - 生成shell_bak.so即已经被加壳的so
