@@ -31,3 +31,6 @@ LLeGu 是一基于 "腾讯Legu" 的 Android ELF 加壳工具，所以起名为 "
   - 将编译好的Extract.exe放入shell目录中
   - 命令行进入shell目录，并运行 Extract libxxx.so
   - 生成shell_bak.so即已经被加壳的so
+
+## 效果图
+![avatar](https://github.com/CCint3/LLeGu/blob/master/test.png?raw=true)
