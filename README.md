@@ -22,7 +22,7 @@ LLeGu 是一基于 "腾讯Legu" 的 Android ELF 加壳工具，所以起名为 "
     5. 生成ldscript，用于下一阶段的壳编译工作。GCC编译器识别该脚本，可以编译出特定的ELF文件。
     6. 执行run_make.bat去编译壳。
   - shell: 壳的主要代码
-    1. 通过Extract工程生成的settings.h和ldscript两个配置文件去编译壳。
+    1. 通过Extract.exe生成的settings.h和ldscript两个配置文件去编译壳。
     2. 壳代码基于 "腾讯LeGu"。
 
 ## 编译
